@@ -26,9 +26,6 @@
 <p  align="center">
                   
   <br>
-
-  
-  
   
 <table border="0" align="center">
 <tr border="0">
