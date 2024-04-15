@@ -3,11 +3,11 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;I'm Abjura/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
+<br/>
 <details open="">
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </details>
-
 <br/>
 
 <details open="">
