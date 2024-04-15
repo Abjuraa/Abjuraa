@@ -1,4 +1,8 @@
-### Hi, I'm Abjura 👋
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;I'm Abjura/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
 <!--
 **Abjuraa/Abjuraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
