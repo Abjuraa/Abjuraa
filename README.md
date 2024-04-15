@@ -23,6 +23,9 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
+  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Abjuraa&theme=react-dark&hide_border=true&area=true)
+
 <p  align="center">
                   
   <br>
@@ -49,8 +52,6 @@
 
 <br>
 </p>  
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Abjuraa&theme=react-dark&hide_border=true&area=true)
 </details>
 <br/>
 
