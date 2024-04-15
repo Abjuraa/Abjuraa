@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Abjuraa/Abjuraa/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Abjura/Abjura/blob/master/github-contribution-grid-snake.svg)
 
 <details open="">
 <summary>
