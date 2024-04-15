@@ -59,9 +59,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/Abjuraa/Abjuraa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
