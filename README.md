@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-  <img align="center" heigth="195px" weigth="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abjuraa&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img align="center" heigth="195px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abjuraa&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Abjuraa&theme=react-dark&hide_border=true&area=true)
