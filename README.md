@@ -56,7 +56,7 @@
 <br/>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)]([https://open.spotify.com/user/gvn4ayx1k8sqdsvzrxl2id5q0](https://open.spotify.com/user/gvn4ayx1k8sqdsvzrxl2id5q0))
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
