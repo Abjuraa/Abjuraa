@@ -11,7 +11,7 @@
 </summary>
 <br/>
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,spring,react,py,postman,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=10"  />
 </summary>
 <br/>
 </details>
