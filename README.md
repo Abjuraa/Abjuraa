@@ -28,6 +28,7 @@
 <br/>
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Abjuraa&theme=react-dark&hide_border=true&area=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abjuraa&show_icons=true&theme=radical)
 
 <p  align="center">
                   
