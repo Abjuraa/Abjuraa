@@ -37,7 +37,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abjuraa&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true?theme=dark"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abjuraa&show_icons=true&hide_border=true&title_color=495057&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true?theme=dark"/>
   <br></br>
    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abjuraa&theme=dark&show_icons=true"/>
   <br></br>
