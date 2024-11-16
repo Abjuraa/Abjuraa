@@ -8,12 +8,12 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Languages and Tools: </strong>
+  <strong>Languages: </strong>
 </summary>
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=8&theme=dark"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=react,py,php,nodejs,mysql,js,php,html,css,bootstrap&perline=8&theme=dark"  />
 </summary>
 <br/>
 
@@ -21,12 +21,12 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Languages and Tools: </strong>
+  <strong>Tools: </strong>
 </summary>
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=8&theme=dark"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,idea,github,git,vite,postman,notion,nodejs,npm&perline=8&theme=dark"  />
 </summary>
 <br/>
 
