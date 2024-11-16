@@ -39,7 +39,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abjuraa&show_icons=true&hide_border=true&title_color=dee2e6&amp&icon_color=FFFFFF&amp&text_color=adb5bd&amp&bg_color=000000&count_private=true&include_all_commits=true?theme=dark"/>
   <br></br>
-    <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abjura&theme=highcontrast&hide_border=true&border_radius=4.4" alt="GitHub Streak" />
+    <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abjuraa&theme=highcontrast&hide_border=true&border_radius=4.4" alt="GitHub Streak" />
 
   
 
