@@ -49,7 +49,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abjuraa&layout=donut-vertical&theme=dark&bg_color=000000&hide_border=true&icon_color=6c757d"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abjuraa&layout=donut-vertical&theme=dark&bg_color=000000&hide_border=true&icon_color=6c757d&ring_color=e9ecef"/>
   
   </td>
 </tr>
