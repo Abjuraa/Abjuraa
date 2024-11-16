@@ -18,6 +18,19 @@
 <br/>
 
 </details>
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Languages and Tools: </strong>
+</summary>
+<br/>
+  
+<p align="center">
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=8&theme=dark"  />
+</summary>
+<br/>
+
+</details>
 
 
 <details open="">
