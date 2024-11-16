@@ -13,7 +13,7 @@
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=10&theme=dark"  />
 </summary>
 <br/>
 
