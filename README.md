@@ -37,7 +37,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abjuraa&theme=great-gatsbyk&show_icons=true)"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abjuraa&theme=great-gatsbyk&show_icons=true"/>
   <br></br>
     <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abjuraa&theme=highcontrast&hide_border=true&border_radius=4.4" alt="GitHub Streak" />
 
