@@ -13,7 +13,7 @@
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=react,py,php,mysql,js,php,html,css,bootstrap,laravel&perline=8&theme=dark"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=react,py,php,mysql,js,php,html,css,bootstrap&perline=8&theme=dark"  />
 </summary>
 <br/>
 
