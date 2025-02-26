@@ -11,7 +11,7 @@
   </summary>
   <br />
   <p align="center">
-    <img width="600px" src="https://skillicons.dev/icons?i=mysql,js,php,html,css&perline=8&theme=dark" />
+    <img width="600px" src="https://skillicons.dev/icons?i=mysql,js,java,php,html,css&perline=8&theme=dark" />
     </summary>
     <br />
 </details>
