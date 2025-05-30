@@ -38,7 +38,7 @@
   <br />
   <p align="center">
     <img width="600px"
-      src="https://skillicons.dev/icons?i=vscode,idea,github,git,vite,postman,notion,nodejs,npm,&perline=8&theme=dark" />
+      src="https://skillicons.dev/icons?i=vscode,idea,github,git,vite,postman,notion,nodejs,npm,spring&perline=8&theme=dark" />
     </summary>
     <br />
 </details>
