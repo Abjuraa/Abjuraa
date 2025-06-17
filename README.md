@@ -24,7 +24,7 @@
   </summary>
   <br />
   <p align="center">
-    <img width="600px" src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&perline=8&theme=dark" />
+    <img width="600px" src="https://skillicons.dev/icons?i=react,astro,bootstrap,tailwind&perline=8&theme=dark" />
     </summary>
     <br />
 </details>
